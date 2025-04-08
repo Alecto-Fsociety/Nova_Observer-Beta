@@ -2,7 +2,6 @@ import requests,os,socket,chardet,sys,pathlib,re,argparse,json,random,traceback,
 from datetime import datetime
 from urllib.parse import urlparse,quote
 from multiprocessing import Pool
-from pprint import pprint 
 
 banner = r"""
      __                    ___ _                                  
