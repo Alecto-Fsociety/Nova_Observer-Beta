@@ -23,6 +23,19 @@ Nova\_Observer is a **next-gen automated reconnaissance and vulnerability scanne
 
 ## ⚙️ Usage
 
+### 📦 Install (Only if needed)
+To install required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+> Inside `requirements.txt`, ensure you have:
+> ```
+> requests
+> ```
+
+
 ```bash
 python3 nova_observer.py -url <target_url> [options]
 ```
