@@ -150,7 +150,7 @@ Scan_Targets : https://example.com
 
 ## 📜 License
 
-MIT License — Free for all warriors of the net.
+[MIT License](https://github.com/Alecto-Fsociety/Alecto-Fsociety/blob/main/LICENSE) — Free for all warriors of the net.
 
 ---
 
